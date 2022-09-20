@@ -1,5 +1,5 @@
 # terraform
-Infraestrutura para subir aplicações para Teste, Produção e Desenvolvimento.
+Infraestrutura para subir aplicações (Docker) para Teste, Produção e Desenvolvimento.
 
 # comando
 
